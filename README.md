@@ -1,6 +1,6 @@
 # Activity 01: Introduction to Python Programming
 
-##Basics of Python
+## Basics of Python
 
 Python is a popular programming language for data science and machine learning due to its simplicity and readability. Understanding Python is crucial for effective coding
 
@@ -10,7 +10,7 @@ Variables and Assignmets:
 * Comments are used to add explanantions or notes within the code. They are preceded by the # symbol.
 * print Statement is used to display the output on the console. The print() function is used for display.
 
-##Class Activity
+## Class Activity
 
 Dictionaries are versatile data structures in Python that are commonly used in data science and machine learning projects. They allow you to store and retrieve data using key-value pairs.
 
