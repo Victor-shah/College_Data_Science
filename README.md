@@ -39,6 +39,6 @@ This is the process of preparing raw data so that it is suitable for further pro
 
 Functions in python can be used to clean, transform and preprocess the raw data. For example, you can create functions to handle missing values, normalize data, or apply feature scaling. For cleaning of the data , either the rows can be dropped using the dropna() function or the null values can be filled with mean or median of the dataframe using the fillna() function.
 
-## Data visualization
+## Data Visualization
 
 The graphical representation of data and information is known as data visualization. Where visual elements likes charts, graphs, plots can be used. In the activity bar graph, pie chart, scatter plot, line graph and histogram are created.
