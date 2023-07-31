@@ -15,3 +15,16 @@ Variables and Assignmets:
 Dictionaries are versatile data structures in Python that are commonly used in data science and machine learning projects. They allow you to store and retrieve data using key-value pairs.
 
 In the activity, data structures of python are used. With these data structures, the following functions supported are also used. 
+
+# Activity 02: Python Libraries
+
+Python has libraries with large collections of mathematical functions and analytical tools. In this activity, the following libraries were used:
+
+## Pandas
+This library is used for structured data operations, like import CSV files, create dataframes, and data preparation
+
+## Numpy
+This is a mathematical library also known as numeric python. It has a powerful N-dimension array object, linear algebra, Fourier transform, etc.
+
+## Matplotlib
+This library is used for data visualization. From this library we are able to make scatter plot, line plot, bar graph, histogram, etc.
