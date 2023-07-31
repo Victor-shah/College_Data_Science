@@ -28,3 +28,17 @@ This is a mathematical library also known as numeric python. It has a powerful N
 
 ## Matplotlib
 This library is used for data visualization. From this library we are able to make scatter plot, line plot, bar graph, histogram, etc.
+
+# Activity 03: World Countries dataset
+
+## Data Preparation
+
+This is the process of preparing raw data so that it is suitable for further processing and analysis. The following dataset is of .csv(comma separted values) type. To access this dataset, the pandas library is used. The function read_csv() is able to create a dataframe from this dataset. Now, the dataframe is ready for further processing
+
+## Data Preprocessing
+
+Functions in python can be used to clean, transform and preprocess the raw data. For example, you can create functions to handle missing values, normalize data, or apply feature scaling. For cleaning of the data , either the rows can be dropped using the dropna() function or the null values can be filled with mean or median of the dataframe using the fillna() function.
+
+## Data visualization
+
+The graphical representation of data and information is known as data visualization. Where visual elements likes charts, graphs, plots can be used. In the activity bar graph, pie chart, scatter plot, line graph and histogram are created.
